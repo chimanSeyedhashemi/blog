@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+  padding-top: 28px;
+}
+
+.textColor {
+  color: var(--defaultColor);
+}

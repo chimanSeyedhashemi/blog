@@ -1,0 +1,3 @@
+export enum EACTIONS {
+SET_THEME="SET_THEME"
+}
